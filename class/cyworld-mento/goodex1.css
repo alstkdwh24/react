@@ -1,0 +1,87 @@
+
+   
+   *{padding: 0;margin: 0;}
+   body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .body_box {
+        width: 560px;
+        height: 960px;
+        top: 118px;
+        left: 690px;
+        border-radius: 20px;
+        border: 1px solid #AACDFF;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 30px;
+
+    }
+
+    .body_box .title {
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 47.36px;
+        width: 420px;
+        height: 47px;
+        top: 178px;
+        left: 768px;
+        color: #0068FF;
+        margin: 30px;
+
+        font-family: 'Noto Sans CJK KR';
+
+    }
+
+
+    .body_box .goodex2 {
+        display: flex;
+        flex-direction: column;
+        width: 420px;
+        justify-content: space-between;
+
+height: 900px;
+    }
+
+
+    .textbox {
+        display: flex;
+        flex-direction: row;
+        width: 420px;
+        height: 40px;
+        top: 605px;
+        left: 768px;
+        border-radius: 7px;
+        justify-content: space-between;
+      
+    }
+    .zoom{
+        height: 30px;
+    }
+
+    .textbox .zoom2 {
+
+        width: 80px;
+
+    }
+    #button{
+        height: 100px;
+    }
+    .feel{ display: flex ;
+        flex-direction: row;
+        justify-content: space-evenly;}
+       
+    .feel .feels{
+        display: flex ;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .s{display: flex;
+ flex-direction: column;
+justify-content: center;}
+#dood{
+    height: 100px;
+}
